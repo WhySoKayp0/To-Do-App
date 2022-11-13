@@ -14,8 +14,8 @@ Full Stack To Do App with Database.
 
 👤 **Author1**
 
-- GitHub: ([https://github.com/githubhandle](https://github.com/WhySoKayp0))
-- LinkedIn: ([https://linkedin.com/in/linkedinhandle](https://www.linkedin.com/in/matthew-lim-9955a817b))
+- GitHub: ([https://github.com/WhySoKayp0])
+- LinkedIn: ([https://linkedin.com/in/atthew-lim-9955a817b])
 
 ## 🤝 Contributing
 
