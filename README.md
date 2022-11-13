@@ -10,6 +10,15 @@ Full Stack To Do App with Database.
 - REST API, Express.js
 - Node.js, MongoDB
 
+## Summary
+
+The approach of building this app was starting from the API and database. 
+Express.js was used to build the REST API together with CRUD concept.
+Importing mongoose library to communicate with Mongo database. 
+
+Once CRUD API was completed and tested using dummy data. 
+The next event was to built the UI using Swift and populate the UI with the API. 
+
 ## Authors
 
 👤 **Author1**
