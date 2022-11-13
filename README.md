@@ -24,7 +24,7 @@ The next event was to built the UI using Swift and populate the UI with the API.
 👤 **Author1**
 
 - GitHub: ([https://github.com/WhySoKayp0])
-- LinkedIn: ([https://linkedin.com/in/atthew-lim-9955a817b])
+- LinkedIn: ([https://linkedin.com/in/matthew-lim-9955a817b])
 
 ## 🤝 Contributing
 
